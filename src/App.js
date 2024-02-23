@@ -4,8 +4,7 @@ import TodoTemplate from './components/TodoTemplate';
 const App = () => {
   return (
     <div>
-      Todo APP
-      <TodoTemplate/>
+      <TodoTemplate>Todo APP</TodoTemplate>
     </div>
   );
 };
